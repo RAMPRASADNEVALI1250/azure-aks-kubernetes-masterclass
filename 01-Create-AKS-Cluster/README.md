@@ -5,7 +5,7 @@
 - Discuss about Kubernetes Architecture from AKS Cluster perspective
 
 ## Step-02: Create AKS Cluster
-- Create Kubernetes Cluster
+- Create Kubernetes Cluster(Search for kubernetes cluster>create kubernetes cluster)
 - **Basics**
   - **Subscription:** Free Trial
   - **Resource Group:** Creat New: aks-rg1
